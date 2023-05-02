@@ -1,7 +1,7 @@
 # Responsive Loading Page
  
- **Webpage**
-[page]() 
+**Link to webpage:** 
+[Responsive-Loading](https://avalonecabrera1902.github.io/Responsive-Loading/) 
  
 This webpage is designed to be responsive, meaning it will adjust its layout and design based on the screen size of the device accessing it.</br>
 
